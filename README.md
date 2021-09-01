@@ -1,6 +1,6 @@
 # Statistics
 
-This repository contains essential statistical concepts whhich are frequently asked in data science interviews in big-techs. Here I have listed the concepts with their reference from best sources. The repository will get updated on a regular basis. So knowing all these let's learn something new... 
+This repository contains essential statistical concepts which are frequently asked in data science interviews in big-techs. Here I have listed the concepts with their reference from best sources. The repository will get updated on a regular basis. So knowing all these let's learn something new... 
 
 **1. What is P-Value in Statistics? [Click Here](https://www.investopedia.com/terms/p/p-value.asp)**
 
