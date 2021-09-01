@@ -6,4 +6,4 @@ This repository contains essential statistical concepts which are frequently ask
 
 **2. Notes on Hypothesis Testing. [Click Here](https://drive.google.com/file/d/1DQ7Vo3DvXhJaYGa7h4TFAVHG2-Ci1kyh/view?usp=sharing)**
 
-**3. What is Conditional probability? [Click Here](https://www.investopedia.com/terms/c/conditional_probability.asp) . Also you can refer to the wikipedia defenition [Here](https://en.wikipedia.org/wiki/Conditional_probability)**
+**3. What is Conditional probability? [Click Here](https://www.investopedia.com/terms/c/conditional_probability.asp) or [Wikipedia](https://en.wikipedia.org/wiki/Conditional_probability)**
