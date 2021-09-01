@@ -8,4 +8,6 @@ This repository contains essential statistical concepts which are frequently ask
 
 **3. [What is Conditional probability?](https://www.investopedia.com/terms/c/conditional_probability.asp) or [Refer to Wikipedia](https://en.wikipedia.org/wiki/Conditional_probability)**
 
-**4. What is Unconditional or Marginal Probability? [Link 1](https://corporatefinanceinstitute.com/resources/knowledge/other/unconditional-probability/),  [Link 2](https://www.investopedia.com/terms/u/unconditional_probability.asp)**
+**4. [What is Unconditional or Marginal Probability?](https://corporatefinanceinstitute.com/resources/knowledge/other/unconditional-probability/)**
+
+**5. [Law of Total Probability.](https://corporatefinanceinstitute.com/resources/knowledge/other/total-probability-rule/)**
