@@ -11,3 +11,5 @@ This repository contains essential statistical concepts which are frequently ask
 **4. [What is Unconditional or Marginal Probability?](https://corporatefinanceinstitute.com/resources/knowledge/other/unconditional-probability/)**
 
 **5. [Law of Total Probability.](https://corporatefinanceinstitute.com/resources/knowledge/other/total-probability-rule/)**
+
+**6. [Distribution of Income.(Gini Coefficient and Lorenz curve).](https://www.sparknotes.com/economics/micro/incomedistribution/summary/)**
