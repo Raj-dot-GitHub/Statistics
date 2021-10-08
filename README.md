@@ -13,3 +13,5 @@ This repository contains essential statistical concepts which are frequently ask
 **5. [Law of Total Probability.](https://corporatefinanceinstitute.com/resources/knowledge/other/total-probability-rule/)**
 
 **6. [Distribution of Income (Gini Coefficient and Lorenz curve).](https://www.sparknotes.com/economics/micro/incomedistribution/section1/)**
+
+**7. [Methods of Sampling.](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population)**
