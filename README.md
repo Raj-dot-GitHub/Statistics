@@ -17,3 +17,5 @@ This repository contains essential statistical concepts which are frequently ask
 **7. [Methods of Sampling.](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population)**
 
 **8. [Skewness & Kurtosis.](https://brownmath.com/stat/shape.htm)**
+
+**9. [Weight of Evidence & Information Value (Special use case of credit risk analysis and a concept inside logistic regression).](https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html)
